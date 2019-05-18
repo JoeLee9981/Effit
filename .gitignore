@@ -1,0 +1,88 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@JoeLee9981 
+2,771
+83,941 40,877 github/gitignore
+ Code  Pull requests 75  Projects 0  Insights
+gitignore/Global/Eclipse.gitignore
+@cemremengu cemremengu Remove extra newline (#2983)
+cd49307 on Mar 8
+@shiftkey @sherzodv @tyutyutyu @aroben @Utumno @segfly @drasolka @rlee287 @rafiw @raeglan @mimibar @fhemberger @lukoerfer @leandrodeleite @jcarsique @jayvdb @harshadsabne @gAmUssA @DenisGorbachev @pangratz @defunkt @cemremengu @arinto @apetresc @alexkaratarakis
+56 lines (41 sloc)  753 Bytes
+    
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+target/
